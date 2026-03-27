@@ -4,8 +4,10 @@ step1 firstly start the XAMPP control Panel
 
 step2 Then start (Apache) and (MySql)
 
-step3 Then go Browser and search localhost/cwh
+Path:-  C:\xampp\htdocs\cwh      [for open the folder in visualstdio]
 
-step4 then go phpmyAdmin for viewing the database
+step3 Then go Browser and search [localhost/cwh]
 
-Path:-  C:\xampp\htdocs\cwh      [for open the visualstdio]
+step4 then go [phpmyAdmin] for seeing the database
+
+
