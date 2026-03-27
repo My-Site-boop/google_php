@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.container{
+    max-width: 80%;
+
+    margin: auto;
+    padding: 34px;
+}
+.container h1,p{
+    text-align: center;
+}
+
+
+input,textarea{
+    display: inline;
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none;
+    width: 80%;
+    margin: 11px;
+   padding: 7px;
+   font-size: 16px;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    flex-direction: column;
+}
+.btn{
+    color: aliceblue;
+    background: purple ;
+    padding: 8px 12px;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 14px;
+    cursor: pointer;
+}
+.bg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.8;
+}
+.submit_msg{
+    font-size: 20px;
+    color: green;
+}
